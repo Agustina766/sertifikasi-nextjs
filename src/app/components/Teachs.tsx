@@ -9,11 +9,11 @@ export default function Teachs() {
       <div className="flex justify-center items-center w-full">
       <TeachCard 
       imageURL= "/Image/C++.jpg"
-        TeachStack= "C++"/>
+        techStack= "C++"/>
         <TeachCard imageURL="/Image/Python.jpg"
-        TeachStack= "Python"/>
+        techStack= "Python"/>
        <TeachCard imageURL="/Image/JS.jpg"
-        TeachStack= "Java Script"/>
+        techStack= "Java Script"/>
   
       </div>
       </div>
